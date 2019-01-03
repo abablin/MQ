@@ -10,6 +10,8 @@ This project is used to send or receive message queue for applications. Currentl
 4. Enums: Define all kinds of enums needed here.
 
 
+
+
 Real application senarios (I've used currently)
 
 1. Web application cache duration:
